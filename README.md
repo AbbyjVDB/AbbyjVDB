@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbbyjVDB
+- 👋 Hi, I’m Abby Van Der Brink
 - 👀 I’m interested in ... gaming, coding, and math
 - 🌱 I’m currently learning ... C++ and JavaScript
 - 💞️ I’m looking to collaborate on ... Any coding I can. I want to experience everything I possibly can.
