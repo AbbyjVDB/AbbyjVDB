@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbbyjVDB
 - 👀 I’m interested in ... gaming, coding, and math
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Any coding I can. I just want experience.
+- 💞️ I’m looking to collaborate on ... Any coding I can. I want to experience everything I possibly can.
 - 📫 How to reach me ... abbyjovdb22@gmail.com
 
 <!---
